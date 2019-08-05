@@ -1,6 +1,7 @@
 TODO:
 -Update the 0xbutt.com to adhere these guidelines: https://forum.vite.net/topic/2282/guidelines-on-how-to-list-your-token-on-vitex
 -Get/pay the httpS for an app.
+-Mining tutorial.
 
 
 DONE:
