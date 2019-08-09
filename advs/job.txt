@@ -33,4 +33,4 @@ Human - 1 0xBUTT token, must have a NSFW tag included (or it will be removed)
 Prices are non-negotiable and we will pay per Reddit post. You can post as much as you like or as much as Reddit allows.
 
 Photograps are to be found anywhere on the Internet and to be posted on 
-"https://www.reddit.com/r/0xBUTT/" together with your Ethereum address in a title!
+"https://www.reddit.com/r/0xBUTT/" together with your Ethereum address.
